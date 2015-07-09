@@ -1,4 +1,2 @@
 # streamtools
-A series of scripts and Python modules for working with data streams
-
-See also [StreamHist](https://github.com/carsonfarmer/streamhist).
+A series of scripts and Python modules for working with data streams. There are currently only a few modules here that are useful, however, this repository is expected to grow substantially as I develop more tools for working with (geospatial) data streams. For a standalone Python package for generating streaming histograms, see [StreamHist](https://github.com/carsonfarmer/streamhist).
